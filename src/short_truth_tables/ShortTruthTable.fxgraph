@@ -1,0 +1,12 @@
+package short_truth_tables
+
+import javafx.scene.layout.HBox
+import short_truth_tables.ShortTruthTableController
+
+component ShortTruthTable controlledby ShortTruthTableController
+{
+	HBox
+	{
+		//TODO Add Nodes
+	}
+}
